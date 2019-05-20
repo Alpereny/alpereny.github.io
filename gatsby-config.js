@@ -3,7 +3,7 @@ module.exports = {
     title: `Alperen Yılmaz Personal Blog`,
     author: `Alperen Yılmaz`,
     description: ``,
-    siteUrl: `https://alperen.blog/`,
+    siteUrl: `http://alperen.blog/`,
     social: {
       twitter: `alperenisback`,
     },
